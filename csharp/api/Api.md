@@ -1,0 +1,27 @@
+Creating an API is done using [ASP.NET](http://asp.net/) Core Web API.  
+A project template is available in Visual Studio, and it’s recommended to use it with controllers.  
+
+Example of a default controller:
+```csharp
+[ApiController]
+[Route("[controller]")]
+public class WeatherForecastController : ControllerBase {
+
+	[HttpPost]
+	[ProducesResponseType(StatusCodes.Status201Created)]
+	[ProducesResponseType(StatusCodes.Status400BadRequest)]
+	public ActionResult<Pet> Create(Pet pet)
+	{
+	    pet.Id = _petsInMemoryStore.Any() ? 
+	             _petsInMemoryStore.Max(p => p.Id) + 1 : 1;
+	    _petsInMemoryStore.Add(pet);
+	
+	    return CreatedAtAction(nameof(GetById), new { id = pet.Id }, pet);
+	}
+}
+```
+
+## [🛡️ Security](Security.md)
+
+
+

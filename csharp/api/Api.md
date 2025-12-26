@@ -23,5 +23,6 @@ public class WeatherForecastController : ControllerBase {
 
 ## [🛡️ Security](Security.md)
 
+## [🛢EF core](EFcore.md)
 
 

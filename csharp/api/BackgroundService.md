@@ -2,7 +2,7 @@
 
 BackgroundServices run, as their name indicates, at application startup in dedicated threads. Developers decide their specific tasks. They pair effectively with Channels for secure, asynchronous operations in applications.
 
-## Implementation
+## 👨🏻‍💻 Implementation
 
 
 ### ⚠️ Prerequisites ⚠️
@@ -30,7 +30,7 @@ public class Program
 }
 ```
 
-### BackgroundService
+### 🏃BackgroundService
 
 A BackgroundService is a background task that runs throughout the application's lifecycle. A crashing BackgroundService can cause the entire application to shut down.
 
@@ -64,7 +64,7 @@ public class ExampleBackgroundService:  BackgroundService
 }
 ```
 
-### IHostedService
+### ▶️ IHostedService
 
 IHostedService is used for a service that allows initializing certain data. Unlike BackgroundService, it can be stopped without causing your application to crash.
 

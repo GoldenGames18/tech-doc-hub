@@ -1,3 +1,6 @@
+
+# 🌐 Web Api in c\#
+
 Creating an API is done using [ASP.NET](http://asp.net/) Core Web API.  
 A project template is available in Visual Studio, and it’s recommended to use it with controllers.  
 
@@ -25,7 +28,12 @@ public class WeatherForecastController : ControllerBase {
 
  - [🛡️ Security](Security.md)
 - [🛢EF core](EFcore.md)
-- [🧪 Tesing](testing/index.md)
+- [🧪 Testing](testing/index.md)
+- [✋🏻 Cancel Request](CancelRequest.md)
+- [🪪 Identity framwork ](Identity.md)
+- [🗺️ Mapper](mapper/index.md)
+- [✨Tips](Tips.md)
+
 
 
 

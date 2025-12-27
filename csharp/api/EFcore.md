@@ -1,4 +1,4 @@
-# Entity Framework core
+# 🛢 Entity Framework core
 
 ## The Basics
 

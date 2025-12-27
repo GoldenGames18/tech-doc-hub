@@ -1,4 +1,6 @@
-## 🧪 The Importance of Testing
+# 🧪 Testing
+
+## 💊 The Importance of Testing
 
 Testing is crucial to ensure **quality**, **stability**, and **reliability** in software. It helps detect issues early, prevents bugs from reaching production, and builds confidence in every code change.
 
@@ -20,5 +22,5 @@ Integration tests validate the **entire system** — database, APIs, and externa
 ## 📝 Notes :
 
 - [🧬 Unit Test](Unit.md)
-- [🗃️ repositories test](repositories.md)
-- [🕹️ Controller Test](controller.md)
+- [🗃️ repositories test](Repositories.md)
+- [🕹️ Controller Test](Controller.md)

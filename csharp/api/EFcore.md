@@ -247,6 +247,7 @@ This type of configuration also allows you to isolate your domain from **Entity 
 
 [https://www.youtube.com/watch?v=QKwZlWvfh-o](https://www.youtube.com/watch?v=QKwZlWvfh-o)  
 To make exception handling in C# with EF Core easier and avoid getting a single large generic exception, it is highly recommended to install the package!
+
 ![Image](../../resources/EFcoreException.png)
 
 ## ⚠️ Improve performance ⚠️

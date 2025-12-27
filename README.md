@@ -8,7 +8,7 @@ It serves as a central place to explore, learn, and master modern technologies t
 - 📘 [About](#About) 
 - 🗂️ [Repository Structure](#️repository-structure) 
 - 📚 [Glossary](Glossary.md)
-- 🤝 [Contributing](contributor.md) 
+- 🤝 [Contributing](Contributor.md) 
 - 📄 [License](LICENSE.txt)
 
 

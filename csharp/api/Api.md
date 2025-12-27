@@ -21,8 +21,11 @@ public class WeatherForecastController : ControllerBase {
 }
 ```
 
-## [🛡️ Security](Security.md)
+## 📝 Notes :
 
-## [🛢EF core](EFcore.md)
+ - [🛡️ Security](Security.md)
+- [🛢EF core](EFcore.md)
+- [🧪 Tesing](testing/index.md)
+
 
 

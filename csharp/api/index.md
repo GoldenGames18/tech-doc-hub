@@ -32,6 +32,7 @@ public class WeatherForecastController : ControllerBase {
 - [✋🏻 Cancel Request](CancelRequest.md)
 - [🪪 Identity framwork ](Identity.md)
 - [🗺️ Mapper](mapper/index.md)
+- [🧵 Serilog](Serilog.md)
 - [✨Tips](Tips.md)
 - [🌄 Background service](BackgroundService.md)
 - [📋Env](Env.md)

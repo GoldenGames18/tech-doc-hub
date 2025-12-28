@@ -3,7 +3,7 @@
 The principle of channels in C# allows secure communication between threads, thus avoiding different errors and exceptions.
 
 
-![Image](../../resources/Channel.png)
+![Image](../../../resources/Channel.png)
 
 
 ## 👨🏻‍💻 Implementation

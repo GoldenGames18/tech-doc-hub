@@ -28,4 +28,4 @@ Puts the JSON file in the project's .config folder.
 
 ## 📝Tools List
 
-- [📗Swashbuckle.AspNetCore.Cli](SwaggerCli)
+- [📗Swashbuckle.AspNetCore.Cli](SwaggerCli.md)

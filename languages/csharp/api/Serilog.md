@@ -7,7 +7,7 @@ Allows logging different information from our application and is much lighter an
 ### { } With the configuration file of our API.
 
 
-![Image](../../resources/Serilog.png)
+![Image](../../../resources/Serilog.png)
 
 
 ```Csharp

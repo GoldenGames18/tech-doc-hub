@@ -41,6 +41,7 @@ public class WeatherForecastController : ControllerBase {
 - [🌄 Background service](BackgroundService.md)
 - [📋Env](Env.md)
 - [🏷️ Version control](VersionControl.md)
+- [🔧Tools](tools/index.md)
 
 
 

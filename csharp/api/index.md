@@ -37,6 +37,7 @@ public class WeatherForecastController : ControllerBase {
 - [✨Tips](Tips.md)
 - [🚧 Channel](Channel.md)
 - [🔒 Mutex](Mutex.md)
+- [🚃 Semaphore](Semaphore.md)
 - [🌄 Background service](BackgroundService.md)
 - [📋Env](Env.md)
 - [🏷️ Version control](VersionControl.md)

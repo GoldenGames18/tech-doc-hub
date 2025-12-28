@@ -42,6 +42,7 @@ public class WeatherForecastController : ControllerBase {
 - [📋Env](Env.md)
 - [🏷️ Version control](VersionControl.md)
 - [🔧Tools](tools/index.md)
+- [🧮gRPC](advanced/GRPC.md)
 
 
 

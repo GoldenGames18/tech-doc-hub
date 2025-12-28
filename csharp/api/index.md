@@ -30,6 +30,7 @@ public class WeatherForecastController : ControllerBase {
 - [🛢EF core](EFcore.md)
 - [🧪 Testing](testing/index.md)
 - [✋🏻 Cancel Request](CancelRequest.md)
+- [🧐 Threading analyzers](ThreadingAnalyzers.md)
 - [🪪 Identity framwork ](Identity.md)
 - [🗺️ Mapper](mapper/index.md)
 - [🧵 Serilog](Serilog.md)
